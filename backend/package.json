@@ -1,0 +1,23 @@
+{
+  "name": "order_pilot_backend",
+  "version": "1.0.0",
+  "description": "backend of restaurant order website project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "orderpilot",
+    "restaurant",
+    "order"
+  ],
+  "author": "Mohit Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
